@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "CBC5E8946C36DC378D6B5276F384D9BA",
+  "keywordClasses": [
+    {
+      "name": "products.getAllProducts",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": false
+}

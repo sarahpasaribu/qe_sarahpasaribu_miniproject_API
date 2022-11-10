@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "C9A0DE5F52D25B76DE8F4A73DB2FFB31",
+  "keywordClasses": [
+    {
+      "name": "rating.giveRating",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": false
+}

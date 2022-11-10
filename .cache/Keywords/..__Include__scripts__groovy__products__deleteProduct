@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "C1873BDD9340C7000A1E236D2F0BFB73",
+  "keywordClasses": [
+    {
+      "name": "products.deleteProduct",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

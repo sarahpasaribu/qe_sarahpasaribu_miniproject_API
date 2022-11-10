@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "4568EA9722D779F001626336DC5ACDF2",
+  "keywordClasses": [
+    {
+      "name": "products.createProduct",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}
